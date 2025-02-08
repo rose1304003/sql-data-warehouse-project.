@@ -1,6 +1,6 @@
- # sql-data-warehouse-project #Data warehouse and Analytica Projects.
+ # sql-data-warehouse-project #Data warehouse and AnalyticaL Project.
 
-Welcome to the **Data warehouse and Analytica Projects** repository!
+Welcome to the **Data warehouse and AnalyticaL Project** repository!
 
 
 "This project showcases a complete data warehousing and analytics solution, covering the entire process from designing and building a modern data warehouse to generating actionable insights. As a portfolio project, it highlights industry best practices in data engineering, including ETL development, data modeling, performance optimization, and analytical querying. The solution is designed to demonstrate proficiency in SQL Server, data integration, and business intelligence, making it a strong addition to a professional resume."
